@@ -1,0 +1,46 @@
+ #clockbox{
+   
+    display: flex;
+    width: 480px;
+    height: 110px;
+    justify-content: center;
+    background-color: rgb(86, 174, 222);
+    border-radius: 20px;
+   
+}
+#hr{
+    font-size: 40px;
+    margin-top:25px;
+    margin-left: 0px;
+}
+#min{
+    font-size: 40px;
+    margin-top:25px;
+    margin-left: 10px;
+}
+
+#sec{
+    font-size: 40px;
+    margin-top:25px;
+    margin-left: 10px;
+
+}
+#co1{
+    
+   font-size: 40px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+#co2{
+    
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+ }
+ #amOrpm{
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 28px;
+ }
+
+
